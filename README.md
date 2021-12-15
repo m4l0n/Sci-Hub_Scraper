@@ -1,6 +1,6 @@
 # Sci-Hub_Scraper
 
-Sci-Hub Scaper is a console application to download Journal Articles from Sci Hub based on queries made to Google Scholar.
+Sci-Hub Scaper is a console application to download journal articles PDF from Sci-Hub based on queries made to Google Scholar.
 <br/><br/>
 ## Getting Started
 
